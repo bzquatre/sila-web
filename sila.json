@@ -1,0 +1,4562 @@
+[
+  {
+    "edition": 6,
+    "pricing": 910
+  },
+  {
+    "edition": 11,
+    "pricing": 700
+  },
+  {
+    "edition": 36,
+    "pricing": 630
+  },
+  {
+    "edition": 177,
+    "pricing": 880
+  },
+  {
+    "edition": 266,
+    "pricing": 780
+  },
+  {
+    "edition": 356,
+    "pricing": 910
+  },
+  {
+    "edition": 816,
+    "pricing": 570
+  },
+  {
+    "edition": 1090,
+    "pricing": 570
+  },
+  {
+    "edition": 1365,
+    "pricing": 1010
+  },
+  {
+    "edition": 1431,
+    "pricing": 590
+  },
+  {
+    "edition": 2031,
+    "pricing": 620
+  },
+  {
+    "edition": 2042,
+    "pricing": 630
+  },
+  {
+    "edition": 2167,
+    "pricing": 630
+  },
+  {
+    "edition": 2229,
+    "pricing": 1130
+  },
+  {
+    "edition": 2234,
+    "pricing": 710
+  },
+  {
+    "edition": 2248,
+    "pricing": 640
+  },
+  {
+    "edition": 2319,
+    "pricing": 500
+  },
+  {
+    "edition": 2678,
+    "pricing": 640
+  },
+  {
+    "edition": 2687,
+    "pricing": 880
+  },
+  {
+    "edition": 2699,
+    "pricing": 700
+  },
+  {
+    "edition": 2731,
+    "pricing": 590
+  },
+  {
+    "edition": 2812,
+    "pricing": 500
+  },
+  {
+    "edition": 2914,
+    "pricing": 570
+  },
+  {
+    "edition": 2931,
+    "pricing": 490
+  },
+  {
+    "edition": 2997,
+    "pricing": 710
+  },
+  {
+    "edition": 3043,
+    "pricing": 1550
+  },
+  {
+    "edition": 3054,
+    "pricing": 640
+  },
+  {
+    "edition": 3144,
+    "pricing": 700
+  },
+  {
+    "edition": 3154,
+    "pricing": 420
+  },
+  {
+    "edition": 3155,
+    "pricing": 1030
+  },
+  {
+    "edition": 3156,
+    "pricing": 460
+  },
+  {
+    "edition": 3157,
+    "pricing": 460
+  },
+  {
+    "edition": 3162,
+    "pricing": 700
+  },
+  {
+    "edition": 3270,
+    "pricing": 420
+  },
+  {
+    "edition": 3320,
+    "pricing": 540
+  },
+  {
+    "edition": 3363,
+    "pricing": 780
+  },
+  {
+    "edition": 3404,
+    "pricing": 780
+  },
+  {
+    "edition": 3434,
+    "pricing": 920
+  },
+  {
+    "edition": 3438,
+    "pricing": 930
+  },
+  {
+    "edition": 3529,
+    "pricing": 690
+  },
+  {
+    "edition": 3593,
+    "pricing": 640
+  },
+  {
+    "edition": 3639,
+    "pricing": 570
+  },
+  {
+    "edition": 3647,
+    "pricing": 710
+  },
+  {
+    "edition": 3658,
+    "pricing": 820
+  },
+  {
+    "edition": 3689,
+    "pricing": 840
+  },
+  {
+    "edition": 3740,
+    "pricing": 570
+  },
+  {
+    "edition": 3749,
+    "pricing": 920
+  },
+  {
+    "edition": 3802,
+    "pricing": 490
+  },
+  {
+    "edition": 3806,
+    "pricing": 690
+  },
+  {
+    "edition": 3838,
+    "pricing": 1330
+  },
+  {
+    "edition": 3843,
+    "pricing": 640
+  },
+  {
+    "edition": 3849,
+    "pricing": 570
+  },
+  {
+    "edition": 3852,
+    "pricing": 710
+  },
+  {
+    "edition": 3887,
+    "pricing": 710
+  },
+  {
+    "edition": 3888,
+    "pricing": 590
+  },
+  {
+    "edition": 3890,
+    "pricing": 710
+  },
+  {
+    "edition": 3894,
+    "pricing": 570
+  },
+  {
+    "edition": 3903,
+    "pricing": 630
+  },
+  {
+    "edition": 3909,
+    "pricing": 780
+  },
+  {
+    "edition": 3920,
+    "pricing": 500
+  },
+  {
+    "edition": 3931,
+    "pricing": 420
+  },
+  {
+    "edition": 3938,
+    "pricing": 540
+  },
+  {
+    "edition": 3956,
+    "pricing": 590
+  },
+  {
+    "edition": 3984,
+    "pricing": 910
+  },
+  {
+    "edition": 4000,
+    "pricing": 800
+  },
+  {
+    "edition": 4002,
+    "pricing": 710
+  },
+  {
+    "edition": 4014,
+    "pricing": 700
+  },
+  {
+    "edition": 4016,
+    "pricing": 640
+  },
+  {
+    "edition": 4030,
+    "pricing": 500
+  },
+  {
+    "edition": 4033,
+    "pricing": 1030
+  },
+  {
+    "edition": 4038,
+    "pricing": 940
+  },
+  {
+    "edition": 4060,
+    "pricing": 780
+  },
+  {
+    "edition": 4061,
+    "pricing": 540
+  },
+  {
+    "edition": 4068,
+    "pricing": 710
+  },
+  {
+    "edition": 4071,
+    "pricing": 630
+  },
+  {
+    "edition": 4086,
+    "pricing": 630
+  },
+  {
+    "edition": 4090,
+    "pricing": 640
+  },
+  {
+    "edition": 4107,
+    "pricing": 640
+  },
+  {
+    "edition": 4108,
+    "pricing": 740
+  },
+  {
+    "edition": 4112,
+    "pricing": 710
+  },
+  {
+    "edition": 4113,
+    "pricing": 700
+  },
+  {
+    "edition": 4134,
+    "pricing": 710
+  },
+  {
+    "edition": 4141,
+    "pricing": 630
+  },
+  {
+    "edition": 4142,
+    "pricing": 780
+  },
+  {
+    "edition": 4154,
+    "pricing": 570
+  },
+  {
+    "edition": 4157,
+    "pricing": 420
+  },
+  {
+    "edition": 4176,
+    "pricing": 690
+  },
+  {
+    "edition": 4179,
+    "pricing": 490
+  },
+  {
+    "edition": 4181,
+    "pricing": 780
+  },
+  {
+    "edition": 4183,
+    "pricing": 590
+  },
+  {
+    "edition": 4185,
+    "pricing": 910
+  },
+  {
+    "edition": 4186,
+    "pricing": 710
+  },
+  {
+    "edition": 4203,
+    "pricing": 590
+  },
+  {
+    "edition": 4204,
+    "pricing": 590
+  },
+  {
+    "edition": 4216,
+    "pricing": 490
+  },
+  {
+    "edition": 4219,
+    "pricing": 630
+  },
+  {
+    "edition": 4222,
+    "pricing": 500
+  },
+  {
+    "edition": 4225,
+    "pricing": 630
+  },
+  {
+    "edition": 4241,
+    "pricing": 630
+  },
+  {
+    "edition": 4267,
+    "pricing": 740
+  },
+  {
+    "edition": 4283,
+    "pricing": 540
+  },
+  {
+    "edition": 4289,
+    "pricing": 890
+  },
+  {
+    "edition": 4301,
+    "pricing": 640
+  },
+  {
+    "edition": 4306,
+    "pricing": 570
+  },
+  {
+    "edition": 4314,
+    "pricing": 690
+  },
+  {
+    "edition": 4339,
+    "pricing": 740
+  },
+  {
+    "edition": 4342,
+    "pricing": 560
+  },
+  {
+    "edition": 4347,
+    "pricing": 400
+  },
+  {
+    "edition": 4353,
+    "pricing": 590
+  },
+  {
+    "edition": 4356,
+    "pricing": 620
+  },
+  {
+    "edition": 4360,
+    "pricing": 660
+  },
+  {
+    "edition": 4361,
+    "pricing": 700
+  },
+  {
+    "edition": 4365,
+    "pricing": 700
+  },
+  {
+    "edition": 4369,
+    "pricing": 570
+  },
+  {
+    "edition": 4371,
+    "pricing": 590
+  },
+  {
+    "edition": 4388,
+    "pricing": 790
+  },
+  {
+    "edition": 4391,
+    "pricing": 410
+  },
+  {
+    "edition": 4392,
+    "pricing": 790
+  },
+  {
+    "edition": 4395,
+    "pricing": 290
+  },
+  {
+    "edition": 4406,
+    "pricing": 710
+  },
+  {
+    "edition": 4407,
+    "pricing": 710
+  },
+  {
+    "edition": 4411,
+    "pricing": 420
+  },
+  {
+    "edition": 4419,
+    "pricing": 890
+  },
+  {
+    "edition": 4422,
+    "pricing": 700
+  },
+  {
+    "edition": 4425,
+    "pricing": 630
+  },
+  {
+    "edition": 4426,
+    "pricing": 700
+  },
+  {
+    "edition": 4435,
+    "pricing": 540
+  },
+  {
+    "edition": 4436,
+    "pricing": 570
+  },
+  {
+    "edition": 4440,
+    "pricing": 640
+  },
+  {
+    "edition": 4451,
+    "pricing": 490
+  },
+  {
+    "edition": 4461,
+    "pricing": 620
+  },
+  {
+    "edition": 4467,
+    "pricing": 590
+  },
+  {
+    "edition": 4469,
+    "pricing": 590
+  },
+  {
+    "edition": 4471,
+    "pricing": 590
+  },
+  {
+    "edition": 4476,
+    "pricing": 540
+  },
+  {
+    "edition": 4477,
+    "pricing": 1010
+  },
+  {
+    "edition": 4480,
+    "pricing": 630
+  },
+  {
+    "edition": 4482,
+    "pricing": 460
+  },
+  {
+    "edition": 4483,
+    "pricing": 570
+  },
+  {
+    "edition": 4487,
+    "pricing": 710
+  },
+  {
+    "edition": 4492,
+    "pricing": 700
+  },
+  {
+    "edition": 4493,
+    "pricing": 570
+  },
+  {
+    "edition": 4495,
+    "pricing": 500
+  },
+  {
+    "edition": 4499,
+    "pricing": 740
+  },
+  {
+    "edition": 4500,
+    "pricing": 640
+  },
+  {
+    "edition": 4501,
+    "pricing": 710
+  },
+  {
+    "edition": 4504,
+    "pricing": 490
+  },
+  {
+    "edition": 4507,
+    "pricing": 880
+  },
+  {
+    "edition": 4515,
+    "pricing": 990
+  },
+  {
+    "edition": 4519,
+    "pricing": 590
+  },
+  {
+    "edition": 4521,
+    "pricing": 1230
+  },
+  {
+    "edition": 4523,
+    "pricing": 360
+  },
+  {
+    "edition": 4524,
+    "pricing": 420
+  },
+  {
+    "edition": 4526,
+    "pricing": 940
+  },
+  {
+    "edition": 4528,
+    "pricing": 640
+  },
+  {
+    "edition": 4529,
+    "pricing": 740
+  },
+  {
+    "edition": 4532,
+    "pricing": 740
+  },
+  {
+    "edition": 4533,
+    "pricing": 420
+  },
+  {
+    "edition": 4539,
+    "pricing": 570
+  },
+  {
+    "edition": 4541,
+    "pricing": 700
+  },
+  {
+    "edition": 4542,
+    "pricing": 570
+  },
+  {
+    "edition": 4543,
+    "pricing": 540
+  },
+  {
+    "edition": 4546,
+    "pricing": 540
+  },
+  {
+    "edition": 4548,
+    "pricing": 540
+  },
+  {
+    "edition": 4552,
+    "pricing": 630
+  },
+  {
+    "edition": 4553,
+    "pricing": 490
+  },
+  {
+    "edition": 4554,
+    "pricing": 570
+  },
+  {
+    "edition": 4558,
+    "pricing": 620
+  },
+  {
+    "edition": 4560,
+    "pricing": 640
+  },
+  {
+    "edition": 4563,
+    "pricing": 660
+  },
+  {
+    "edition": 4575,
+    "pricing": 930
+  },
+  {
+    "edition": 4578,
+    "pricing": 420
+  },
+  {
+    "edition": 4579,
+    "pricing": 490
+  },
+  {
+    "edition": 4619,
+    "pricing": 740
+  },
+  {
+    "edition": 4620,
+    "pricing": 360
+  },
+  {
+    "edition": 4621,
+    "pricing": 590
+  },
+  {
+    "edition": 4629,
+    "pricing": 540
+  },
+  {
+    "edition": 4638,
+    "pricing": 330
+  },
+  {
+    "edition": 4639,
+    "pricing": 710
+  },
+  {
+    "edition": 4642,
+    "pricing": 570
+  },
+  {
+    "edition": 4661,
+    "pricing": 490
+  },
+  {
+    "edition": 4672,
+    "pricing": 570
+  },
+  {
+    "edition": 4678,
+    "pricing": 570
+  },
+  {
+    "edition": 4679,
+    "pricing": 690
+  },
+  {
+    "edition": 4684,
+    "pricing": 400
+  },
+  {
+    "edition": 4688,
+    "pricing": 540
+  },
+  {
+    "edition": 4691,
+    "pricing": 720
+  },
+  {
+    "edition": 4693,
+    "pricing": 700
+  },
+  {
+    "edition": 4694,
+    "pricing": 360
+  },
+  {
+    "edition": 4697,
+    "pricing": 740
+  },
+  {
+    "edition": 4703,
+    "pricing": 840
+  },
+  {
+    "edition": 4708,
+    "pricing": 690
+  },
+  {
+    "edition": 4710,
+    "pricing": 540
+  },
+  {
+    "edition": 4712,
+    "pricing": 620
+  },
+  {
+    "edition": 4717,
+    "pricing": 810
+  },
+  {
+    "edition": 4718,
+    "pricing": 490
+  },
+  {
+    "edition": 4725,
+    "pricing": 630
+  },
+  {
+    "edition": 4726,
+    "pricing": 590
+  },
+  {
+    "edition": 4728,
+    "pricing": 330
+  },
+  {
+    "edition": 4729,
+    "pricing": 330
+  },
+  {
+    "edition": 4730,
+    "pricing": 420
+  },
+  {
+    "edition": 4731,
+    "pricing": 540
+  },
+  {
+    "edition": 4734,
+    "pricing": 880
+  },
+  {
+    "edition": 4738,
+    "pricing": 740
+  },
+  {
+    "edition": 4742,
+    "pricing": 370
+  },
+  {
+    "edition": 4746,
+    "pricing": 910
+  },
+  {
+    "edition": 4748,
+    "pricing": 780
+  },
+  {
+    "edition": 4750,
+    "pricing": 490
+  },
+  {
+    "edition": 4752,
+    "pricing": 590
+  },
+  {
+    "edition": 4753,
+    "pricing": 540
+  },
+  {
+    "edition": 4756,
+    "pricing": 540
+  },
+  {
+    "edition": 4761,
+    "pricing": 620
+  },
+  {
+    "edition": 4763,
+    "pricing": 630
+  },
+  {
+    "edition": 4768,
+    "pricing": 1130
+  },
+  {
+    "edition": 4770,
+    "pricing": 570
+  },
+  {
+    "edition": 4771,
+    "pricing": 700
+  },
+  {
+    "edition": 4775,
+    "pricing": 910
+  },
+  {
+    "edition": 4779,
+    "pricing": 720
+  },
+  {
+    "edition": 4780,
+    "pricing": 980
+  },
+  {
+    "edition": 4781,
+    "pricing": 660
+  },
+  {
+    "edition": 4782,
+    "pricing": 640
+  },
+  {
+    "edition": 4788,
+    "pricing": 540
+  },
+  {
+    "edition": 4790,
+    "pricing": 490
+  },
+  {
+    "edition": 4796,
+    "pricing": 710
+  },
+  {
+    "edition": 4800,
+    "pricing": 630
+  },
+  {
+    "edition": 4802,
+    "pricing": 610
+  },
+  {
+    "edition": 4806,
+    "pricing": 780
+  },
+  {
+    "edition": 4807,
+    "pricing": 570
+  },
+  {
+    "edition": 4813,
+    "pricing": 360
+  },
+  {
+    "edition": 4815,
+    "pricing": 490
+  },
+  {
+    "edition": 4819,
+    "pricing": 590
+  },
+  {
+    "edition": 4823,
+    "pricing": 720
+  },
+  {
+    "edition": 4827,
+    "pricing": 690
+  },
+  {
+    "edition": 4828,
+    "pricing": 980
+  },
+  {
+    "edition": 4829,
+    "pricing": 690
+  },
+  {
+    "edition": 4830,
+    "pricing": 690
+  },
+  {
+    "edition": 4831,
+    "pricing": 1040
+  },
+  {
+    "edition": 4835,
+    "pricing": 570
+  },
+  {
+    "edition": 4836,
+    "pricing": 2090
+  },
+  {
+    "edition": 4837,
+    "pricing": 1370
+  },
+  {
+    "edition": 4839,
+    "pricing": 1000
+  },
+  {
+    "edition": 4841,
+    "pricing": 490
+  },
+  {
+    "edition": 4842,
+    "pricing": 1150
+  },
+  {
+    "edition": 4843,
+    "pricing": 1160
+  },
+  {
+    "edition": 4844,
+    "pricing": 1160
+  },
+  {
+    "edition": 4845,
+    "pricing": 1160
+  },
+  {
+    "edition": 4846,
+    "pricing": 640
+  },
+  {
+    "edition": 4847,
+    "pricing": 640
+  },
+  {
+    "edition": 4849,
+    "pricing": 690
+  },
+  {
+    "edition": 4850,
+    "pricing": 700
+  },
+  {
+    "edition": 4853,
+    "pricing": 490
+  },
+  {
+    "edition": 4857,
+    "pricing": 590
+  },
+  {
+    "edition": 4859,
+    "pricing": 740
+  },
+  {
+    "edition": 4862,
+    "pricing": 570
+  },
+  {
+    "edition": 4864,
+    "pricing": 630
+  },
+  {
+    "edition": 4865,
+    "pricing": 1120
+  },
+  {
+    "edition": 4866,
+    "pricing": 500
+  },
+  {
+    "edition": 4868,
+    "pricing": 420
+  },
+  {
+    "edition": 4869,
+    "pricing": 700
+  },
+  {
+    "edition": 4874,
+    "pricing": 570
+  },
+  {
+    "edition": 4875,
+    "pricing": 620
+  },
+  {
+    "edition": 4877,
+    "pricing": 590
+  },
+  {
+    "edition": 4879,
+    "pricing": 720
+  },
+  {
+    "edition": 4882,
+    "pricing": 570
+  },
+  {
+    "edition": 4884,
+    "pricing": 570
+  },
+  {
+    "edition": 4885,
+    "pricing": 1470
+  },
+  {
+    "edition": 4886,
+    "pricing": 840
+  },
+  {
+    "edition": 4887,
+    "pricing": 880
+  },
+  {
+    "edition": 4888,
+    "pricing": 880
+  },
+  {
+    "edition": 4889,
+    "pricing": 1030
+  },
+  {
+    "edition": 4890,
+    "pricing": 570
+  },
+  {
+    "edition": 4891,
+    "pricing": 570
+  },
+  {
+    "edition": 4892,
+    "pricing": 620
+  },
+  {
+    "edition": 4893,
+    "pricing": 710
+  },
+  {
+    "edition": 4894,
+    "pricing": 500
+  },
+  {
+    "edition": 4895,
+    "pricing": 570
+  },
+  {
+    "edition": 4897,
+    "pricing": 360
+  },
+  {
+    "edition": 4897,
+    "pricing": 720
+  },
+  {
+    "edition": 4901,
+    "pricing": 630
+  },
+  {
+    "edition": 4903,
+    "pricing": 700
+  },
+  {
+    "edition": 4906,
+    "pricing": 570
+  },
+  {
+    "edition": 4907,
+    "pricing": 630
+  },
+  {
+    "edition": 4908,
+    "pricing": 570
+  },
+  {
+    "edition": 4910,
+    "pricing": 370
+  },
+  {
+    "edition": 4912,
+    "pricing": 640
+  },
+  {
+    "edition": 4913,
+    "pricing": 700
+  },
+  {
+    "edition": 4915,
+    "pricing": 590
+  },
+  {
+    "edition": 4916,
+    "pricing": 360
+  },
+  {
+    "edition": 4918,
+    "pricing": 590
+  },
+  {
+    "edition": 4919,
+    "pricing": 790
+  },
+  {
+    "edition": 4923,
+    "pricing": 890
+  },
+  {
+    "edition": 4925,
+    "pricing": 490
+  },
+  {
+    "edition": 4927,
+    "pricing": 630
+  },
+  {
+    "edition": 4929,
+    "pricing": 570
+  },
+  {
+    "edition": 4930,
+    "pricing": 710
+  },
+  {
+    "edition": 4931,
+    "pricing": 790
+  },
+  {
+    "edition": 4934,
+    "pricing": 490
+  },
+  {
+    "edition": 4935,
+    "pricing": 710
+  },
+  {
+    "edition": 4936,
+    "pricing": 490
+  },
+  {
+    "edition": 4937,
+    "pricing": 360
+  },
+  {
+    "edition": 4940,
+    "pricing": 1030
+  },
+  {
+    "edition": 4941,
+    "pricing": 1070
+  },
+  {
+    "edition": 4942,
+    "pricing": 740
+  },
+  {
+    "edition": 4943,
+    "pricing": 710
+  },
+  {
+    "edition": 4944,
+    "pricing": 710
+  },
+  {
+    "edition": 4946,
+    "pricing": 570
+  },
+  {
+    "edition": 4948,
+    "pricing": 640
+  },
+  {
+    "edition": 4949,
+    "pricing": 640
+  },
+  {
+    "edition": 4950,
+    "pricing": 970
+  },
+  {
+    "edition": 4954,
+    "pricing": 360
+  },
+  {
+    "edition": 4957,
+    "pricing": 550
+  },
+  {
+    "edition": 4959,
+    "pricing": 640
+  },
+  {
+    "edition": 4960,
+    "pricing": 540
+  },
+  {
+    "edition": 4960,
+    "pricing": 820
+  },
+  {
+    "edition": 4964,
+    "pricing": 570
+  },
+  {
+    "edition": 4965,
+    "pricing": 1240
+  },
+  {
+    "edition": 4966,
+    "pricing": 1370
+  },
+  {
+    "edition": 4968,
+    "pricing": 910
+  },
+  {
+    "edition": 4972,
+    "pricing": 700
+  },
+  {
+    "edition": 4974,
+    "pricing": 540
+  },
+  {
+    "edition": 4975,
+    "pricing": 740
+  },
+  {
+    "edition": 4977,
+    "pricing": 290
+  },
+  {
+    "edition": 4979,
+    "pricing": 640
+  },
+  {
+    "edition": 4980,
+    "pricing": 630
+  },
+  {
+    "edition": 4981,
+    "pricing": 360
+  },
+  {
+    "edition": 4982,
+    "pricing": 570
+  },
+  {
+    "edition": 4984,
+    "pricing": 540
+  },
+  {
+    "edition": 4987,
+    "pricing": 570
+  },
+  {
+    "edition": 4987,
+    "pricing": 570
+  },
+  {
+    "edition": 4991,
+    "pricing": 1240
+  },
+  {
+    "edition": 4992,
+    "pricing": 490
+  },
+  {
+    "edition": 4996,
+    "pricing": 570
+  },
+  {
+    "edition": 4997,
+    "pricing": 500
+  },
+  {
+    "edition": 4999,
+    "pricing": 490
+  },
+  {
+    "edition": 5000,
+    "pricing": 960
+  },
+  {
+    "edition": 5002,
+    "pricing": 570
+  },
+  {
+    "edition": 5003,
+    "pricing": 1050
+  },
+  {
+    "edition": 5005,
+    "pricing": 620
+  },
+  {
+    "edition": 5006,
+    "pricing": 620
+  },
+  {
+    "edition": 5007,
+    "pricing": 640
+  },
+  {
+    "edition": 5008,
+    "pricing": 640
+  },
+  {
+    "edition": 5010,
+    "pricing": 420
+  },
+  {
+    "edition": 5012,
+    "pricing": 500
+  },
+  {
+    "edition": 5013,
+    "pricing": 1040
+  },
+  {
+    "edition": 5014,
+    "pricing": 420
+  },
+  {
+    "edition": 5015,
+    "pricing": 1130
+  },
+  {
+    "edition": 5016,
+    "pricing": 1130
+  },
+  {
+    "edition": 5017,
+    "pricing": 630
+  },
+  {
+    "edition": 5019,
+    "pricing": 370
+  },
+  {
+    "edition": 5023,
+    "pricing": 910
+  },
+  {
+    "edition": 5024,
+    "pricing": 630
+  },
+  {
+    "edition": 5025,
+    "pricing": 420
+  },
+  {
+    "edition": 5028,
+    "pricing": 840
+  },
+  {
+    "edition": 5030,
+    "pricing": 570
+  },
+  {
+    "edition": 5031,
+    "pricing": 590
+  },
+  {
+    "edition": 5033,
+    "pricing": 630
+  },
+  {
+    "edition": 5035,
+    "pricing": 630
+  },
+  {
+    "edition": 5036,
+    "pricing": 500
+  },
+  {
+    "edition": 5040,
+    "pricing": 710
+  },
+  {
+    "edition": 5042,
+    "pricing": 1070
+  },
+  {
+    "edition": 5043,
+    "pricing": 590
+  },
+  {
+    "edition": 5044,
+    "pricing": 700
+  },
+  {
+    "edition": 5047,
+    "pricing": 800
+  },
+  {
+    "edition": 5049,
+    "pricing": 570
+  },
+  {
+    "edition": 5051,
+    "pricing": 780
+  },
+  {
+    "edition": 5052,
+    "pricing": 640
+  },
+  {
+    "edition": 5053,
+    "pricing": 500
+  },
+  {
+    "edition": 5056,
+    "pricing": 630
+  },
+  {
+    "edition": 5057,
+    "pricing": 570
+  },
+  {
+    "edition": 5058,
+    "pricing": 640
+  },
+  {
+    "edition": 5060,
+    "pricing": 590
+  },
+  {
+    "edition": 5061,
+    "pricing": 590
+  },
+  {
+    "edition": 5063,
+    "pricing": 840
+  },
+  {
+    "edition": 5064,
+    "pricing": 840
+  },
+  {
+    "edition": 5069,
+    "pricing": 740
+  },
+  {
+    "edition": 5070,
+    "pricing": 630
+  },
+  {
+    "edition": 5072,
+    "pricing": 590
+  },
+  {
+    "edition": 5074,
+    "pricing": 740
+  },
+  {
+    "edition": 5075,
+    "pricing": 910
+  },
+  {
+    "edition": 5076,
+    "pricing": 590
+  },
+  {
+    "edition": 5077,
+    "pricing": 700
+  },
+  {
+    "edition": 5078,
+    "pricing": 962
+  },
+  {
+    "edition": 5081,
+    "pricing": 370
+  },
+  {
+    "edition": 5082,
+    "pricing": 700
+  },
+  {
+    "edition": 5083,
+    "pricing": 590
+  },
+  {
+    "edition": 5085,
+    "pricing": 720
+  },
+  {
+    "edition": 5087,
+    "pricing": 660
+  },
+  {
+    "edition": 5088,
+    "pricing": 910
+  },
+  {
+    "edition": 5091,
+    "pricing": 640
+  },
+  {
+    "edition": 5096,
+    "pricing": 221
+  },
+  {
+    "edition": 5097,
+    "pricing": 500
+  },
+  {
+    "edition": 5098,
+    "pricing": 590
+  },
+  {
+    "edition": 5099,
+    "pricing": 364
+  },
+  {
+    "edition": 5100,
+    "pricing": 780
+  },
+  {
+    "edition": 5101,
+    "pricing": 630
+  },
+  {
+    "edition": 5102,
+    "pricing": 740
+  },
+  {
+    "edition": 5103,
+    "pricing": 710
+  },
+  {
+    "edition": 5104,
+    "pricing": 570
+  },
+  {
+    "edition": 5105,
+    "pricing": 640
+  },
+  {
+    "edition": 5108,
+    "pricing": 780
+  },
+  {
+    "edition": 5109,
+    "pricing": 500
+  },
+  {
+    "edition": 5111,
+    "pricing": 630
+  },
+  {
+    "edition": 5112,
+    "pricing": 420
+  },
+  {
+    "edition": 5114,
+    "pricing": 630
+  },
+  {
+    "edition": 5116,
+    "pricing": 640
+  },
+  {
+    "edition": 5117,
+    "pricing": 500
+  },
+  {
+    "edition": 5121,
+    "pricing": 740
+  },
+  {
+    "edition": 5122,
+    "pricing": 420
+  },
+  {
+    "edition": 5125,
+    "pricing": 700
+  },
+  {
+    "edition": 5128,
+    "pricing": 570
+  },
+  {
+    "edition": 5129,
+    "pricing": 590
+  },
+  {
+    "edition": 5133,
+    "pricing": 700
+  },
+  {
+    "edition": 5135,
+    "pricing": 630
+  },
+  {
+    "edition": 5136,
+    "pricing": 930
+  },
+  {
+    "edition": 5137,
+    "pricing": 740
+  },
+  {
+    "edition": 5142,
+    "pricing": 630
+  },
+  {
+    "edition": 5144,
+    "pricing": 700
+  },
+  {
+    "edition": 5156,
+    "pricing": 700
+  },
+  {
+    "edition": 5157,
+    "pricing": 710
+  },
+  {
+    "edition": 5158,
+    "pricing": 630
+  },
+  {
+    "edition": 5159,
+    "pricing": 710
+  },
+  {
+    "edition": 5160,
+    "pricing": 740
+  },
+  {
+    "edition": 5161,
+    "pricing": 740
+  },
+  {
+    "edition": 5163,
+    "pricing": 700
+  },
+  {
+    "edition": 5164,
+    "pricing": 700
+  },
+  {
+    "edition": 5168,
+    "pricing": 500
+  },
+  {
+    "edition": 5169,
+    "pricing": 500
+  },
+  {
+    "edition": 5170,
+    "pricing": 640
+  },
+  {
+    "edition": 5171,
+    "pricing": 720
+  },
+  {
+    "edition": 5173,
+    "pricing": 770
+  },
+  {
+    "edition": 5174,
+    "pricing": 590
+  },
+  {
+    "edition": 5175,
+    "pricing": 640
+  },
+  {
+    "edition": 5178,
+    "pricing": 420
+  },
+  {
+    "edition": 5179,
+    "pricing": 420
+  },
+  {
+    "edition": 5180,
+    "pricing": 710
+  },
+  {
+    "edition": 5184,
+    "pricing": 700
+  },
+  {
+    "edition": 5185,
+    "pricing": 840
+  },
+  {
+    "edition": 5188,
+    "pricing": 780
+  },
+  {
+    "edition": 5189,
+    "pricing": 570
+  },
+  {
+    "edition": 5191,
+    "pricing": 1010
+  },
+  {
+    "edition": 5192,
+    "pricing": 500
+  },
+  {
+    "edition": 5195,
+    "pricing": 590
+  },
+  {
+    "edition": 5197,
+    "pricing": 630
+  },
+  {
+    "edition": 5199,
+    "pricing": 700
+  },
+  {
+    "edition": 5200,
+    "pricing": 630
+  },
+  {
+    "edition": 5201,
+    "pricing": 710
+  },
+  {
+    "edition": 5203,
+    "pricing": 740
+  },
+  {
+    "edition": 5204,
+    "pricing": 630
+  },
+  {
+    "edition": 5209,
+    "pricing": 740
+  },
+  {
+    "edition": 5212,
+    "pricing": 640
+  },
+  {
+    "edition": 5214,
+    "pricing": 630
+  },
+  {
+    "edition": 5218,
+    "pricing": 740
+  },
+  {
+    "edition": 5219,
+    "pricing": 640
+  },
+  {
+    "edition": 5221,
+    "pricing": 630
+  },
+  {
+    "edition": 5222,
+    "pricing": 590
+  },
+  {
+    "edition": 5223,
+    "pricing": 590
+  },
+  {
+    "edition": 5224,
+    "pricing": 700
+  },
+  {
+    "edition": 5225,
+    "pricing": 880
+  },
+  {
+    "edition": 5231,
+    "pricing": 1339
+  },
+  {
+    "edition": 5232,
+    "pricing": 1313
+  },
+  {
+    "edition": 5235,
+    "pricing": 420
+  },
+  {
+    "edition": 5236,
+    "pricing": 420
+  },
+  {
+    "edition": 5240,
+    "pricing": 740
+  },
+  {
+    "edition": 5246,
+    "pricing": 710
+  },
+  {
+    "edition": 5247,
+    "pricing": 570
+  },
+  {
+    "edition": 5248,
+    "pricing": 570
+  },
+  {
+    "edition": 5249,
+    "pricing": 1010
+  },
+  {
+    "edition": 5250,
+    "pricing": 630
+  },
+  {
+    "edition": 5251,
+    "pricing": 640
+  },
+  {
+    "edition": 5252,
+    "pricing": 420
+  },
+  {
+    "edition": 5254,
+    "pricing": 930
+  },
+  {
+    "edition": 5257,
+    "pricing": 590
+  },
+  {
+    "edition": 5258,
+    "pricing": 880
+  },
+  {
+    "edition": 5260,
+    "pricing": 640
+  },
+  {
+    "edition": 5265,
+    "pricing": 450
+  },
+  {
+    "edition": 5269,
+    "pricing": 640
+  },
+  {
+    "edition": 5270,
+    "pricing": 570
+  },
+  {
+    "edition": 5271,
+    "pricing": 370
+  },
+  {
+    "edition": 5272,
+    "pricing": 1070
+  },
+  {
+    "edition": 5274,
+    "pricing": 640
+  },
+  {
+    "edition": 5275,
+    "pricing": 630
+  },
+  {
+    "edition": 5277,
+    "pricing": 780
+  },
+  {
+    "edition": 5280,
+    "pricing": 630
+  },
+  {
+    "edition": 5282,
+    "pricing": 640
+  },
+  {
+    "edition": 5283,
+    "pricing": 420
+  },
+  {
+    "edition": 5284,
+    "pricing": 740
+  },
+  {
+    "edition": 5285,
+    "pricing": 700
+  },
+  {
+    "edition": 5286,
+    "pricing": 370
+  },
+  {
+    "edition": 5287,
+    "pricing": 500
+  },
+  {
+    "edition": 5287,
+    "pricing": 500
+  },
+  {
+    "edition": 5291,
+    "pricing": 1070
+  },
+  {
+    "edition": 5292,
+    "pricing": 370
+  },
+  {
+    "edition": 5293,
+    "pricing": 570
+  },
+  {
+    "edition": 5297,
+    "pricing": 570
+  },
+  {
+    "edition": 5302,
+    "pricing": 490
+  },
+  {
+    "edition": 5303,
+    "pricing": 1010
+  },
+  {
+    "edition": 5308,
+    "pricing": 700
+  },
+  {
+    "edition": 5309,
+    "pricing": 740
+  },
+  {
+    "edition": 5312,
+    "pricing": 420
+  },
+  {
+    "edition": 5313,
+    "pricing": 910
+  },
+  {
+    "edition": 5314,
+    "pricing": 930
+  },
+  {
+    "edition": 5318,
+    "pricing": 710
+  },
+  {
+    "edition": 5319,
+    "pricing": 570
+  },
+  {
+    "edition": 5326,
+    "pricing": 420
+  },
+  {
+    "edition": 5329,
+    "pricing": 710
+  },
+  {
+    "edition": 5330,
+    "pricing": 500
+  },
+  {
+    "edition": 5332,
+    "pricing": 590
+  },
+  {
+    "edition": 5333,
+    "pricing": 2590
+  },
+  {
+    "edition": 5334,
+    "pricing": 700
+  },
+  {
+    "edition": 5337,
+    "pricing": 880
+  },
+  {
+    "edition": 5338,
+    "pricing": 910
+  },
+  {
+    "edition": 5340,
+    "pricing": 930
+  },
+  {
+    "edition": 5341,
+    "pricing": 800
+  },
+  {
+    "edition": 5342,
+    "pricing": 800
+  },
+  {
+    "edition": 5343,
+    "pricing": 710
+  },
+  {
+    "edition": 5345,
+    "pricing": 570
+  },
+  {
+    "edition": 5350,
+    "pricing": 840
+  },
+  {
+    "edition": 5351,
+    "pricing": 840
+  },
+  {
+    "edition": 5352,
+    "pricing": 810
+  },
+  {
+    "edition": 5354,
+    "pricing": 570
+  },
+  {
+    "edition": 5358,
+    "pricing": 780
+  },
+  {
+    "edition": 5359,
+    "pricing": 640
+  },
+  {
+    "edition": 5360,
+    "pricing": 590
+  },
+  {
+    "edition": 5361,
+    "pricing": 630
+  },
+  {
+    "edition": 5363,
+    "pricing": 740
+  },
+  {
+    "edition": 5365,
+    "pricing": 780
+  },
+  {
+    "edition": 5367,
+    "pricing": 780
+  },
+  {
+    "edition": 5369,
+    "pricing": 700
+  },
+  {
+    "edition": 5371,
+    "pricing": 710
+  },
+  {
+    "edition": 5372,
+    "pricing": 880
+  },
+  {
+    "edition": 5373,
+    "pricing": 910
+  },
+  {
+    "edition": 5375,
+    "pricing": 570
+  },
+  {
+    "edition": 5376,
+    "pricing": 490
+  },
+  {
+    "edition": 5377,
+    "pricing": 570
+  },
+  {
+    "edition": 5378,
+    "pricing": 880
+  },
+  {
+    "edition": 5378,
+    "pricing": 1020
+  },
+  {
+    "edition": 5381,
+    "pricing": 710
+  },
+  {
+    "edition": 5385,
+    "pricing": 500
+  },
+  {
+    "edition": 5391,
+    "pricing": 630
+  },
+  {
+    "edition": 5393,
+    "pricing": 700
+  },
+  {
+    "edition": 5395,
+    "pricing": 640
+  },
+  {
+    "edition": 5396,
+    "pricing": 420
+  },
+  {
+    "edition": 5397,
+    "pricing": 880
+  },
+  {
+    "edition": 5398,
+    "pricing": 1020
+  },
+  {
+    "edition": 5400,
+    "pricing": 740
+  },
+  {
+    "edition": 5401,
+    "pricing": 590
+  },
+  {
+    "edition": 5403,
+    "pricing": 500
+  },
+  {
+    "edition": 5406,
+    "pricing": 700
+  },
+  {
+    "edition": 5408,
+    "pricing": 420
+  },
+  {
+    "edition": 5409,
+    "pricing": 1000
+  },
+  {
+    "edition": 5413,
+    "pricing": 640
+  },
+  {
+    "edition": 5415,
+    "pricing": 880
+  },
+  {
+    "edition": 5416,
+    "pricing": 690
+  },
+  {
+    "edition": 5420,
+    "pricing": 2240
+  },
+  {
+    "edition": 5424,
+    "pricing": 740
+  },
+  {
+    "edition": 5425,
+    "pricing": 700
+  },
+  {
+    "edition": 5426,
+    "pricing": 940
+  },
+  {
+    "edition": 5430,
+    "pricing": 500
+  },
+  {
+    "edition": 5431,
+    "pricing": 590
+  },
+  {
+    "edition": 5433,
+    "pricing": 590
+  },
+  {
+    "edition": 5437,
+    "pricing": 640
+  },
+  {
+    "edition": 5439,
+    "pricing": 630
+  },
+  {
+    "edition": 5440,
+    "pricing": 819
+  },
+  {
+    "edition": 5445,
+    "pricing": 570
+  },
+  {
+    "edition": 5446,
+    "pricing": 640
+  },
+  {
+    "edition": 5447,
+    "pricing": 590
+  },
+  {
+    "edition": 5448,
+    "pricing": 630
+  },
+  {
+    "edition": 5449,
+    "pricing": 630
+  },
+  {
+    "edition": 5450,
+    "pricing": 590
+  },
+  {
+    "edition": 5453,
+    "pricing": 800
+  },
+  {
+    "edition": 5454,
+    "pricing": 570
+  },
+  {
+    "edition": 5457,
+    "pricing": 500
+  },
+  {
+    "edition": 5458,
+    "pricing": 880
+  },
+  {
+    "edition": 5459,
+    "pricing": 420
+  },
+  {
+    "edition": 5460,
+    "pricing": 910
+  },
+  {
+    "edition": 5461,
+    "pricing": 790
+  },
+  {
+    "edition": 5463,
+    "pricing": 1440
+  },
+  {
+    "edition": 5464,
+    "pricing": 1130
+  },
+  {
+    "edition": 5465,
+    "pricing": 1350
+  },
+  {
+    "edition": 5466,
+    "pricing": 1250
+  },
+  {
+    "edition": 5467,
+    "pricing": 700
+  },
+  {
+    "edition": 5470,
+    "pricing": 710
+  },
+  {
+    "edition": 5471,
+    "pricing": 420
+  },
+  {
+    "edition": 5474,
+    "pricing": 700
+  },
+  {
+    "edition": 5476,
+    "pricing": 890
+  },
+  {
+    "edition": 5477,
+    "pricing": 420
+  },
+  {
+    "edition": 5478,
+    "pricing": 880
+  },
+  {
+    "edition": 5479,
+    "pricing": 910
+  },
+  {
+    "edition": 5481,
+    "pricing": 630
+  },
+  {
+    "edition": 5484,
+    "pricing": 630
+  },
+  {
+    "edition": 5485,
+    "pricing": 910
+  },
+  {
+    "edition": 5486,
+    "pricing": 370
+  },
+  {
+    "edition": 5488,
+    "pricing": 370
+  },
+  {
+    "edition": 5489,
+    "pricing": 1050
+  },
+  {
+    "edition": 5491,
+    "pricing": 420
+  },
+  {
+    "edition": 5493,
+    "pricing": 500
+  },
+  {
+    "edition": 5494,
+    "pricing": 640
+  },
+  {
+    "edition": 5496,
+    "pricing": 630
+  },
+  {
+    "edition": 5497,
+    "pricing": 740
+  },
+  {
+    "edition": 5498,
+    "pricing": 990
+  },
+  {
+    "edition": 5499,
+    "pricing": 640
+  },
+  {
+    "edition": 5500,
+    "pricing": 567
+  },
+  {
+    "edition": 5502,
+    "pricing": 420
+  },
+  {
+    "edition": 5506,
+    "pricing": 710
+  },
+  {
+    "edition": 5510,
+    "pricing": 640
+  },
+  {
+    "edition": 5512,
+    "pricing": 370
+  },
+  {
+    "edition": 5515,
+    "pricing": 640
+  },
+  {
+    "edition": 5517,
+    "pricing": 640
+  },
+  {
+    "edition": 5518,
+    "pricing": 590
+  },
+  {
+    "edition": 5520,
+    "pricing": 700
+  },
+  {
+    "edition": 5521,
+    "pricing": 660
+  },
+  {
+    "edition": 5523,
+    "pricing": 640
+  },
+  {
+    "edition": 5525,
+    "pricing": 570
+  },
+  {
+    "edition": 5526,
+    "pricing": 590
+  },
+  {
+    "edition": 5526,
+    "pricing": 590
+  },
+  {
+    "edition": 5529,
+    "pricing": 1470
+  },
+  {
+    "edition": 5530,
+    "pricing": 910
+  },
+  {
+    "edition": 5532,
+    "pricing": 1590
+  },
+  {
+    "edition": 5537,
+    "pricing": 420
+  },
+  {
+    "edition": 5539,
+    "pricing": 420
+  },
+  {
+    "edition": 5541,
+    "pricing": 780
+  },
+  {
+    "edition": 5543,
+    "pricing": 710
+  },
+  {
+    "edition": 5549,
+    "pricing": 1080
+  },
+  {
+    "edition": 5550,
+    "pricing": 750
+  },
+  {
+    "edition": 5551,
+    "pricing": 700
+  },
+  {
+    "edition": 5552,
+    "pricing": 570
+  },
+  {
+    "edition": 5553,
+    "pricing": 630
+  },
+  {
+    "edition": 5554,
+    "pricing": 650
+  },
+  {
+    "edition": 5556,
+    "pricing": 780
+  },
+  {
+    "edition": 5557,
+    "pricing": 1070
+  },
+  {
+    "edition": 5560,
+    "pricing": 370
+  },
+  {
+    "edition": 5561,
+    "pricing": 370
+  },
+  {
+    "edition": 5562,
+    "pricing": 740
+  },
+  {
+    "edition": 5563,
+    "pricing": 420
+  },
+  {
+    "edition": 5564,
+    "pricing": 590
+  },
+  {
+    "edition": 5567,
+    "pricing": 840
+  },
+  {
+    "edition": 5570,
+    "pricing": 660
+  },
+  {
+    "edition": 5571,
+    "pricing": 630
+  },
+  {
+    "edition": 5574,
+    "pricing": 700
+  },
+  {
+    "edition": 5575,
+    "pricing": 700
+  },
+  {
+    "edition": 5576,
+    "pricing": 780
+  },
+  {
+    "edition": 5585,
+    "pricing": 1420
+  },
+  {
+    "edition": 5586,
+    "pricing": 700
+  },
+  {
+    "edition": 5588,
+    "pricing": 640
+  },
+  {
+    "edition": 5592,
+    "pricing": 420
+  },
+  {
+    "edition": 5593,
+    "pricing": 420
+  },
+  {
+    "edition": 5600,
+    "pricing": 710
+  },
+  {
+    "edition": 5602,
+    "pricing": 420
+  },
+  {
+    "edition": 5603,
+    "pricing": 740
+  },
+  {
+    "edition": 5609,
+    "pricing": 420
+  },
+  {
+    "edition": 5610,
+    "pricing": 630
+  },
+  {
+    "edition": 5611,
+    "pricing": 640
+  },
+  {
+    "edition": 5615,
+    "pricing": 570
+  },
+  {
+    "edition": 5616,
+    "pricing": 420
+  },
+  {
+    "edition": 5617,
+    "pricing": 420
+  },
+  {
+    "edition": 5618,
+    "pricing": 710
+  },
+  {
+    "edition": 5619,
+    "pricing": 630
+  },
+  {
+    "edition": 5620,
+    "pricing": 660
+  },
+  {
+    "edition": 5621,
+    "pricing": 710
+  },
+  {
+    "edition": 5624,
+    "pricing": 800
+  },
+  {
+    "edition": 5625,
+    "pricing": 960
+  },
+  {
+    "edition": 5626,
+    "pricing": 570
+  },
+  {
+    "edition": 5627,
+    "pricing": 640
+  },
+  {
+    "edition": 5629,
+    "pricing": 810
+  },
+  {
+    "edition": 5630,
+    "pricing": 630
+  },
+  {
+    "edition": 5632,
+    "pricing": 590
+  },
+  {
+    "edition": 5633,
+    "pricing": 630
+  },
+  {
+    "edition": 5634,
+    "pricing": 710
+  },
+  {
+    "edition": 5635,
+    "pricing": 400
+  },
+  {
+    "edition": 5637,
+    "pricing": 640
+  },
+  {
+    "edition": 5638,
+    "pricing": 400
+  },
+  {
+    "edition": 5639,
+    "pricing": 400
+  },
+  {
+    "edition": 5645,
+    "pricing": 500
+  },
+  {
+    "edition": 5646,
+    "pricing": 420
+  },
+  {
+    "edition": 5648,
+    "pricing": 420
+  },
+  {
+    "edition": 5649,
+    "pricing": 710
+  },
+  {
+    "edition": 5655,
+    "pricing": 560
+  },
+  {
+    "edition": 5656,
+    "pricing": 660
+  },
+  {
+    "edition": 5657,
+    "pricing": 640
+  },
+  {
+    "edition": 5658,
+    "pricing": 420
+  },
+  {
+    "edition": 5659,
+    "pricing": 700
+  },
+  {
+    "edition": 5661,
+    "pricing": 420
+  },
+  {
+    "edition": 5662,
+    "pricing": 740
+  },
+  {
+    "edition": 5663,
+    "pricing": 500
+  },
+  {
+    "edition": 5664,
+    "pricing": 640
+  },
+  {
+    "edition": 5665,
+    "pricing": 1660
+  },
+  {
+    "edition": 5667,
+    "pricing": 500
+  },
+  {
+    "edition": 5668,
+    "pricing": 630
+  },
+  {
+    "edition": 5669,
+    "pricing": 370
+  },
+  {
+    "edition": 5672,
+    "pricing": 640
+  },
+  {
+    "edition": 5675,
+    "pricing": 630
+  },
+  {
+    "edition": 5676,
+    "pricing": 710
+  },
+  {
+    "edition": 5682,
+    "pricing": 660
+  },
+  {
+    "edition": 5684,
+    "pricing": 570
+  },
+  {
+    "edition": 5685,
+    "pricing": 630
+  },
+  {
+    "edition": 5687,
+    "pricing": 1090
+  },
+  {
+    "edition": 5688,
+    "pricing": 700
+  },
+  {
+    "edition": 5689,
+    "pricing": 590
+  },
+  {
+    "edition": 5690,
+    "pricing": 330
+  },
+  {
+    "edition": 5692,
+    "pricing": 420
+  },
+  {
+    "edition": 5694,
+    "pricing": 560
+  },
+  {
+    "edition": 5695,
+    "pricing": 430
+  },
+  {
+    "edition": 5697,
+    "pricing": 630
+  },
+  {
+    "edition": 5698,
+    "pricing": 880
+  },
+  {
+    "edition": 5699,
+    "pricing": 420
+  },
+  {
+    "edition": 5701,
+    "pricing": 460
+  },
+  {
+    "edition": 5702,
+    "pricing": 330
+  },
+  {
+    "edition": 5704,
+    "pricing": 2380
+  },
+  {
+    "edition": 5705,
+    "pricing": 400
+  },
+  {
+    "edition": 5712,
+    "pricing": 330
+  },
+  {
+    "edition": 5715,
+    "pricing": 330
+  },
+  {
+    "edition": 5717,
+    "pricing": 570
+  },
+  {
+    "edition": 5718,
+    "pricing": 590
+  },
+  {
+    "edition": 5719,
+    "pricing": 740
+  },
+  {
+    "edition": 5721,
+    "pricing": 710
+  },
+  {
+    "edition": 5723,
+    "pricing": 640
+  },
+  {
+    "edition": 5728,
+    "pricing": 420
+  },
+  {
+    "edition": 5730,
+    "pricing": 800
+  },
+  {
+    "edition": 5731,
+    "pricing": 420
+  },
+  {
+    "edition": 5733,
+    "pricing": 590
+  },
+  {
+    "edition": 5734,
+    "pricing": 630
+  },
+  {
+    "edition": 5735,
+    "pricing": 570
+  },
+  {
+    "edition": 5737,
+    "pricing": 590
+  },
+  {
+    "edition": 5738,
+    "pricing": 500
+  },
+  {
+    "edition": 5739,
+    "pricing": 570
+  },
+  {
+    "edition": 5741,
+    "pricing": 570
+  },
+  {
+    "edition": 5742,
+    "pricing": 700
+  },
+  {
+    "edition": 5743,
+    "pricing": 590
+  },
+  {
+    "edition": 5746,
+    "pricing": 500
+  },
+  {
+    "edition": 5748,
+    "pricing": 740
+  },
+  {
+    "edition": 5749,
+    "pricing": 570
+  },
+  {
+    "edition": 5750,
+    "pricing": 910
+  },
+  {
+    "edition": 5753,
+    "pricing": 590
+  },
+  {
+    "edition": 5754,
+    "pricing": 640
+  },
+  {
+    "edition": 5755,
+    "pricing": 500
+  },
+  {
+    "edition": 5756,
+    "pricing": 720
+  },
+  {
+    "edition": 5757,
+    "pricing": 1330
+  },
+  {
+    "edition": 5758,
+    "pricing": 500
+  },
+  {
+    "edition": 5759,
+    "pricing": 420
+  },
+  {
+    "edition": 5760,
+    "pricing": 630
+  },
+  {
+    "edition": 5761,
+    "pricing": 1070
+  },
+  {
+    "edition": 5762,
+    "pricing": 590
+  },
+  {
+    "edition": 5763,
+    "pricing": 880
+  },
+  {
+    "edition": 5764,
+    "pricing": 590
+  },
+  {
+    "edition": 5765,
+    "pricing": 700
+  },
+  {
+    "edition": 5767,
+    "pricing": 740
+  },
+  {
+    "edition": 5768,
+    "pricing": 590
+  },
+  {
+    "edition": 5769,
+    "pricing": 590
+  },
+  {
+    "edition": 5770,
+    "pricing": 780
+  },
+  {
+    "edition": 5771,
+    "pricing": 420
+  },
+  {
+    "edition": 5772,
+    "pricing": 310
+  },
+  {
+    "edition": 5774,
+    "pricing": 630
+  },
+  {
+    "edition": 5775,
+    "pricing": 840
+  },
+  {
+    "edition": 5776,
+    "pricing": 590
+  },
+  {
+    "edition": 5777,
+    "pricing": 1500
+  },
+  {
+    "edition": 5778,
+    "pricing": 460
+  },
+  {
+    "edition": 5779,
+    "pricing": 630
+  },
+  {
+    "edition": 5780,
+    "pricing": 880
+  },
+  {
+    "edition": 5781,
+    "pricing": 420
+  },
+  {
+    "edition": 5782,
+    "pricing": 910
+  },
+  {
+    "edition": 5783,
+    "pricing": 600
+  },
+  {
+    "edition": 5784,
+    "pricing": 590
+  },
+  {
+    "edition": 5786,
+    "pricing": 1070
+  },
+  {
+    "edition": 5787,
+    "pricing": 1010
+  },
+  {
+    "edition": 5788,
+    "pricing": 1300
+  },
+  {
+    "edition": 5789,
+    "pricing": 700
+  },
+  {
+    "edition": 5790,
+    "pricing": 740
+  },
+  {
+    "edition": 5791,
+    "pricing": 640
+  },
+  {
+    "edition": 5792,
+    "pricing": 660
+  },
+  {
+    "edition": 5793,
+    "pricing": 460
+  },
+  {
+    "edition": 5794,
+    "pricing": 640
+  },
+  {
+    "edition": 5795,
+    "pricing": 720
+  },
+  {
+    "edition": 5797,
+    "pricing": 420
+  },
+  {
+    "edition": 5800,
+    "pricing": 620
+  },
+  {
+    "edition": 5803,
+    "pricing": 530
+  },
+  {
+    "edition": 5804,
+    "pricing": 1700
+  },
+  {
+    "edition": 5805,
+    "pricing": 370
+  },
+  {
+    "edition": 5806,
+    "pricing": 570
+  },
+  {
+    "edition": 5807,
+    "pricing": 640
+  },
+  {
+    "edition": 5813,
+    "pricing": 700
+  },
+  {
+    "edition": 5814,
+    "pricing": 560
+  },
+  {
+    "edition": 5815,
+    "pricing": 460
+  },
+  {
+    "edition": 5816,
+    "pricing": 630
+  },
+  {
+    "edition": 5817,
+    "pricing": 420
+  },
+  {
+    "edition": 5818,
+    "pricing": 660
+  },
+  {
+    "edition": 5821,
+    "pricing": 640
+  },
+  {
+    "edition": 5823,
+    "pricing": 800
+  },
+  {
+    "edition": 5824,
+    "pricing": 710
+  },
+  {
+    "edition": 5825,
+    "pricing": 310
+  },
+  {
+    "edition": 5826,
+    "pricing": 500
+  },
+  {
+    "edition": 5827,
+    "pricing": 550
+  },
+  {
+    "edition": 5828,
+    "pricing": 460
+  },
+  {
+    "edition": 5829,
+    "pricing": 660
+  },
+  {
+    "edition": 5830,
+    "pricing": 420
+  },
+  {
+    "edition": 5831,
+    "pricing": 870
+  },
+  {
+    "edition": 5832,
+    "pricing": 740
+  },
+  {
+    "edition": 5835,
+    "pricing": 590
+  },
+  {
+    "edition": 5837,
+    "pricing": 560
+  },
+  {
+    "edition": 5838,
+    "pricing": 680
+  },
+  {
+    "edition": 5839,
+    "pricing": 680
+  },
+  {
+    "edition": 5840,
+    "pricing": 420
+  },
+  {
+    "edition": 5841,
+    "pricing": 500
+  },
+  {
+    "edition": 5842,
+    "pricing": 640
+  },
+  {
+    "edition": 5843,
+    "pricing": 570
+  },
+  {
+    "edition": 5844,
+    "pricing": 420
+  },
+  {
+    "edition": 5845,
+    "pricing": 660
+  },
+  {
+    "edition": 5846,
+    "pricing": 420
+  },
+  {
+    "edition": 5847,
+    "pricing": 570
+  },
+  {
+    "edition": 5849,
+    "pricing": 1080
+  },
+  {
+    "edition": 5850,
+    "pricing": 630
+  },
+  {
+    "edition": 5851,
+    "pricing": 450
+  },
+  {
+    "edition": 5854,
+    "pricing": 660
+  },
+  {
+    "edition": 5857,
+    "pricing": 800
+  },
+  {
+    "edition": 5862,
+    "pricing": 500
+  },
+  {
+    "edition": 5865,
+    "pricing": 819
+  },
+  {
+    "edition": 5866,
+    "pricing": 630
+  },
+  {
+    "edition": 5868,
+    "pricing": 570
+  },
+  {
+    "edition": 5869,
+    "pricing": 470
+  },
+  {
+    "edition": 5871,
+    "pricing": 923
+  },
+  {
+    "edition": 5872,
+    "pricing": 330
+  },
+  {
+    "edition": 5874,
+    "pricing": 640
+  },
+  {
+    "edition": 5876,
+    "pricing": 660
+  },
+  {
+    "edition": 5877,
+    "pricing": 610
+  },
+  {
+    "edition": 5878,
+    "pricing": 460
+  },
+  {
+    "edition": 5880,
+    "pricing": 570
+  },
+  {
+    "edition": 5881,
+    "pricing": 740
+  },
+  {
+    "edition": 5882,
+    "pricing": 640
+  },
+  {
+    "edition": 5883,
+    "pricing": 960
+  },
+  {
+    "edition": 5884,
+    "pricing": 700
+  },
+  {
+    "edition": 5885,
+    "pricing": 560
+  },
+  {
+    "edition": 5886,
+    "pricing": 420
+  },
+  {
+    "edition": 5887,
+    "pricing": 800
+  },
+  {
+    "edition": 5888,
+    "pricing": 640
+  },
+  {
+    "edition": 5891,
+    "pricing": 910
+  },
+  {
+    "edition": 5892,
+    "pricing": 962
+  },
+  {
+    "edition": 5893,
+    "pricing": 570
+  },
+  {
+    "edition": 5894,
+    "pricing": 700
+  },
+  {
+    "edition": 5895,
+    "pricing": 590
+  },
+  {
+    "edition": 5896,
+    "pricing": 460
+  },
+  {
+    "edition": 5897,
+    "pricing": 420
+  },
+  {
+    "edition": 5898,
+    "pricing": 1100
+  },
+  {
+    "edition": 5899,
+    "pricing": 923
+  },
+  {
+    "edition": 5900,
+    "pricing": 720
+  },
+  {
+    "edition": 5901,
+    "pricing": 640
+  },
+  {
+    "edition": 5902,
+    "pricing": 630
+  },
+  {
+    "edition": 5905,
+    "pricing": 1040
+  },
+  {
+    "edition": 5906,
+    "pricing": 460
+  },
+  {
+    "edition": 5908,
+    "pricing": 940
+  },
+  {
+    "edition": 5909,
+    "pricing": 710
+  },
+  {
+    "edition": 5911,
+    "pricing": 400
+  },
+  {
+    "edition": 5913,
+    "pricing": 710
+  },
+  {
+    "edition": 5914,
+    "pricing": 370
+  },
+  {
+    "edition": 5915,
+    "pricing": 460
+  },
+  {
+    "edition": 5916,
+    "pricing": 570
+  },
+  {
+    "edition": 5917,
+    "pricing": 420
+  },
+  {
+    "edition": 5918,
+    "pricing": 470
+  },
+  {
+    "edition": 5919,
+    "pricing": 660
+  },
+  {
+    "edition": 5920,
+    "pricing": 470
+  },
+  {
+    "edition": 5921,
+    "pricing": 600
+  },
+  {
+    "edition": 5922,
+    "pricing": 420
+  },
+  {
+    "edition": 5924,
+    "pricing": 570
+  },
+  {
+    "edition": 5925,
+    "pricing": 560
+  },
+  {
+    "edition": 5926,
+    "pricing": 940
+  },
+  {
+    "edition": 5927,
+    "pricing": 710
+  },
+  {
+    "edition": 5928,
+    "pricing": 560
+  },
+  {
+    "edition": 5929,
+    "pricing": 660
+  },
+  {
+    "edition": 5930,
+    "pricing": 760
+  },
+  {
+    "edition": 5932,
+    "pricing": 570
+  },
+  {
+    "edition": 5933,
+    "pricing": 500
+  },
+  {
+    "edition": 5937,
+    "pricing": 760
+  },
+  {
+    "edition": 5938,
+    "pricing": 330
+  },
+  {
+    "edition": 5939,
+    "pricing": 400
+  },
+  {
+    "edition": 5940,
+    "pricing": 400
+  },
+  {
+    "edition": 5941,
+    "pricing": 400
+  },
+  {
+    "edition": 5942,
+    "pricing": 640
+  },
+  {
+    "edition": 5943,
+    "pricing": 700
+  },
+  {
+    "edition": 5944,
+    "pricing": 670
+  },
+  {
+    "edition": 5945,
+    "pricing": 400
+  },
+  {
+    "edition": 5947,
+    "pricing": 420
+  },
+  {
+    "edition": 5948,
+    "pricing": 728
+  },
+  {
+    "edition": 5953,
+    "pricing": 800
+  },
+  {
+    "edition": 5954,
+    "pricing": 710
+  },
+  {
+    "edition": 5956,
+    "pricing": 1400
+  },
+  {
+    "edition": 5957,
+    "pricing": 1040
+  },
+  {
+    "edition": 5959,
+    "pricing": 923
+  },
+  {
+    "edition": 5960,
+    "pricing": 630
+  },
+  {
+    "edition": 5964,
+    "pricing": 590
+  },
+  {
+    "edition": 5964,
+    "pricing": 767
+  },
+  {
+    "edition": 5969,
+    "pricing": 960
+  },
+  {
+    "edition": 5970,
+    "pricing": 330
+  },
+  {
+    "edition": 5971,
+    "pricing": 330
+  },
+  {
+    "edition": 5972,
+    "pricing": 330
+  },
+  {
+    "edition": 5974,
+    "pricing": 770
+  },
+  {
+    "edition": 5977,
+    "pricing": 1200
+  },
+  {
+    "edition": 5978,
+    "pricing": 1200
+  },
+  {
+    "edition": 5979,
+    "pricing": 1092
+  },
+  {
+    "edition": 5983,
+    "pricing": 600
+  },
+  {
+    "edition": 5985,
+    "pricing": 1250
+  },
+  {
+    "edition": 5988,
+    "pricing": 500
+  },
+  {
+    "edition": 5990,
+    "pricing": 546
+  },
+  {
+    "edition": 5992,
+    "pricing": 570
+  },
+  {
+    "edition": 5994,
+    "pricing": 710
+  },
+  {
+    "edition": 5995,
+    "pricing": 500
+  },
+  {
+    "edition": 5997,
+    "pricing": 590
+  },
+  {
+    "edition": 5998,
+    "pricing": 710
+  },
+  {
+    "edition": 6004,
+    "pricing": 1092
+  },
+  {
+    "edition": 6018,
+    "pricing": 767
+  },
+  {
+    "edition": 6020,
+    "pricing": 450
+  },
+  {
+    "edition": 6021,
+    "pricing": 640
+  },
+  {
+    "edition": 6023,
+    "pricing": 310
+  },
+  {
+    "edition": 6024,
+    "pricing": 1800
+  },
+  {
+    "edition": 6025,
+    "pricing": 820
+  },
+  {
+    "edition": 6028,
+    "pricing": 330
+  },
+  {
+    "edition": 6029,
+    "pricing": 330
+  },
+  {
+    "edition": 6030,
+    "pricing": 400
+  },
+  {
+    "edition": 6035,
+    "pricing": 910
+  },
+  {
+    "edition": 6038,
+    "pricing": 850
+  },
+  {
+    "edition": 6039,
+    "pricing": 700
+  },
+  {
+    "edition": 6040,
+    "pricing": 570
+  },
+  {
+    "edition": 6043,
+    "pricing": 890
+  },
+  {
+    "edition": 6047,
+    "pricing": 420
+  },
+  {
+    "edition": 6048,
+    "pricing": 1400
+  },
+  {
+    "edition": 6051,
+    "pricing": 598
+  },
+  {
+    "edition": 6052,
+    "pricing": 598
+  },
+  {
+    "edition": 6053,
+    "pricing": 880
+  },
+  {
+    "edition": 6055,
+    "pricing": 546
+  },
+  {
+    "edition": 6063,
+    "pricing": 500
+  },
+  {
+    "edition": 6065,
+    "pricing": 310
+  },
+  {
+    "edition": 6076,
+    "pricing": 420
+  },
+  {
+    "edition": 6078,
+    "pricing": 420
+  },
+  {
+    "edition": 6090,
+    "pricing": 500
+  },
+  {
+    "edition": 6094,
+    "pricing": 720
+  },
+  {
+    "edition": 6097,
+    "pricing": 1990
+  },
+  {
+    "edition": 6099,
+    "pricing": 310
+  },
+  {
+    "edition": 6102,
+    "pricing": 390
+  },
+  {
+    "edition": 6103,
+    "pricing": 1400
+  },
+  {
+    "edition": 6104,
+    "pricing": 850
+  },
+  {
+    "edition": 6105,
+    "pricing": 728
+  },
+  {
+    "edition": 6106,
+    "pricing": 1200
+  },
+  {
+    "edition": 6107,
+    "pricing": 700
+  },
+  {
+    "edition": 6108,
+    "pricing": 390
+  },
+  {
+    "edition": 6109,
+    "pricing": 450
+  },
+  {
+    "edition": 6112,
+    "pricing": 1400
+  },
+  {
+    "edition": 6113,
+    "pricing": 1300
+  },
+  {
+    "edition": 6114,
+    "pricing": 1150
+  },
+  {
+    "edition": 6116,
+    "pricing": 500
+  },
+  {
+    "edition": 6117,
+    "pricing": 850
+  },
+  {
+    "edition": 6118,
+    "pricing": 750
+  },
+  {
+    "edition": 6119,
+    "pricing": 840
+  },
+  {
+    "edition": 6120,
+    "pricing": 520
+  },
+  {
+    "edition": 6121,
+    "pricing": 820
+  },
+  {
+    "edition": 6122,
+    "pricing": 970
+  },
+  {
+    "edition": 6123,
+    "pricing": 820
+  },
+  {
+    "edition": 6124,
+    "pricing": 480
+  },
+  {
+    "edition": 6127,
+    "pricing": 1200
+  },
+  {
+    "edition": 6129,
+    "pricing": 650
+  },
+  {
+    "edition": 6131,
+    "pricing": 1040
+  },
+  {
+    "edition": 6132,
+    "pricing": 740
+  },
+  {
+    "edition": 6133,
+    "pricing": 1040
+  },
+  {
+    "edition": 6137,
+    "pricing": 546
+  },
+  {
+    "edition": 6138,
+    "pricing": 858
+  },
+  {
+    "edition": 6139,
+    "pricing": 637
+  },
+  {
+    "edition": 6141,
+    "pricing": 650
+  },
+  {
+    "edition": 6142,
+    "pricing": 637
+  },
+  {
+    "edition": 6144,
+    "pricing": 637
+  },
+  {
+    "edition": 6151,
+    "pricing": 650
+  },
+  {
+    "edition": 6152,
+    "pricing": 1040
+  },
+  {
+    "edition": 6153,
+    "pricing": 910
+  },
+  {
+    "edition": 6155,
+    "pricing": 770
+  },
+  {
+    "edition": 6156,
+    "pricing": 770
+  },
+  {
+    "edition": 6161,
+    "pricing": 750
+  },
+  {
+    "edition": 6162,
+    "pricing": 832
+  },
+  {
+    "edition": 6163,
+    "pricing": 546
+  },
+  {
+    "edition": 6164,
+    "pricing": 1600
+  },
+  {
+    "edition": 6165,
+    "pricing": 550
+  },
+  {
+    "edition": 6174,
+    "pricing": 2000
+  },
+  {
+    "edition": 6177,
+    "pricing": 1700
+  },
+  {
+    "edition": 6178,
+    "pricing": 700
+  },
+  {
+    "edition": 6179,
+    "pricing": 1209
+  },
+  {
+    "edition": 6180,
+    "pricing": 1800
+  },
+  {
+    "edition": 6183,
+    "pricing": 840
+  },
+  {
+    "edition": 6185,
+    "pricing": 546
+  },
+  {
+    "edition": 6186,
+    "pricing": 403
+  },
+  {
+    "edition": 6266,
+    "pricing": 637
+  },
+  {
+    "edition": 1,
+    "pricing": 800
+  },
+  {
+    "edition": 2,
+    "pricing": 700
+  },
+  {
+    "edition": 3,
+    "pricing": 630
+  },
+  {
+    "edition": 4,
+    "pricing": 980
+  },
+  {
+    "edition": 6,
+    "pricing": 1400
+  },
+  {
+    "edition": 7,
+    "pricing": 1200
+  },
+  {
+    "edition": 8,
+    "pricing": 700
+  },
+  {
+    "edition": 9,
+    "pricing": 800
+  },
+  {
+    "edition": 10,
+    "pricing": 400
+  },
+  {
+    "edition": 11,
+    "pricing": 300
+  },
+  {
+    "edition": 12,
+    "pricing": 300
+  },
+  {
+    "edition": 68,
+    "pricing": 620
+  },
+  {
+    "edition": 174,
+    "pricing": 680
+  },
+  {
+    "edition": 1112,
+    "pricing": 620
+  },
+  {
+    "edition": 1948,
+    "pricing": 832
+  },
+  {
+    "edition": 2634,
+    "pricing": 440
+  },
+  {
+    "edition": 2781,
+    "pricing": 450
+  },
+  {
+    "edition": 2798,
+    "pricing": 530
+  },
+  {
+    "edition": 3188,
+    "pricing": 150
+  },
+  {
+    "edition": 3280,
+    "pricing": 680
+  },
+  {
+    "edition": 3289,
+    "pricing": 620
+  },
+  {
+    "edition": 3289,
+    "pricing": 620
+  },
+  {
+    "edition": 3539,
+    "pricing": 590
+  },
+  {
+    "edition": 3673,
+    "pricing": 390
+  },
+  {
+    "edition": 3863,
+    "pricing": 490
+  },
+  {
+    "edition": 4059,
+    "pricing": 300
+  },
+  {
+    "edition": 4085,
+    "pricing": 330
+  },
+  {
+    "edition": 4167,
+    "pricing": 390
+  },
+  {
+    "edition": 4171,
+    "pricing": 330
+  },
+  {
+    "edition": 4214,
+    "pricing": 280
+  },
+  {
+    "edition": 4274,
+    "pricing": 450
+  },
+  {
+    "edition": 4275,
+    "pricing": 440
+  },
+  {
+    "edition": 4285,
+    "pricing": 330
+  },
+  {
+    "edition": 4317,
+    "pricing": 430
+  },
+  {
+    "edition": 4325,
+    "pricing": 490
+  },
+  {
+    "edition": 4326,
+    "pricing": 510
+  },
+  {
+    "edition": 4332,
+    "pricing": 390
+  },
+  {
+    "edition": 4333,
+    "pricing": 440
+  },
+  {
+    "edition": 4382,
+    "pricing": 350
+  },
+  {
+    "edition": 4442,
+    "pricing": 240
+  },
+  {
+    "edition": 4447,
+    "pricing": 440
+  },
+  {
+    "edition": 4463,
+    "pricing": 530
+  },
+  {
+    "edition": 4472,
+    "pricing": 240
+  },
+  {
+    "edition": 4489,
+    "pricing": 450
+  },
+  {
+    "edition": 4490,
+    "pricing": 340
+  },
+  {
+    "edition": 4494,
+    "pricing": 450
+  },
+  {
+    "edition": 4497,
+    "pricing": 300
+  },
+  {
+    "edition": 4506,
+    "pricing": 340
+  },
+  {
+    "edition": 4510,
+    "pricing": 360
+  },
+  {
+    "edition": 4512,
+    "pricing": 390
+  },
+  {
+    "edition": 4517,
+    "pricing": 350
+  },
+  {
+    "edition": 4535,
+    "pricing": 530
+  },
+  {
+    "edition": 4540,
+    "pricing": 350
+  },
+  {
+    "edition": 4544,
+    "pricing": 350
+  },
+  {
+    "edition": 4545,
+    "pricing": 510
+  },
+  {
+    "edition": 4550,
+    "pricing": 370
+  },
+  {
+    "edition": 4569,
+    "pricing": 350
+  },
+  {
+    "edition": 4570,
+    "pricing": 640
+  },
+  {
+    "edition": 4573,
+    "pricing": 390
+  },
+  {
+    "edition": 4584,
+    "pricing": 300
+  },
+  {
+    "edition": 4584,
+    "pricing": 300
+  },
+  {
+    "edition": 4633,
+    "pricing": 300
+  },
+  {
+    "edition": 4634,
+    "pricing": 420
+  },
+  {
+    "edition": 4640,
+    "pricing": 400
+  },
+  {
+    "edition": 4644,
+    "pricing": 510
+  },
+  {
+    "edition": 4665,
+    "pricing": 370
+  },
+  {
+    "edition": 4700,
+    "pricing": 500
+  },
+  {
+    "edition": 4706,
+    "pricing": 600
+  },
+  {
+    "edition": 4722,
+    "pricing": 510
+  },
+  {
+    "edition": 4723,
+    "pricing": 350
+  },
+  {
+    "edition": 4772,
+    "pricing": 510
+  },
+  {
+    "edition": 4817,
+    "pricing": 450
+  },
+  {
+    "edition": 4820,
+    "pricing": 390
+  },
+  {
+    "edition": 4855,
+    "pricing": 450
+  },
+  {
+    "edition": 4863,
+    "pricing": 470
+  },
+  {
+    "edition": 4880,
+    "pricing": 390
+  },
+  {
+    "edition": 4900,
+    "pricing": 450
+  },
+  {
+    "edition": 4971,
+    "pricing": 390
+  },
+  {
+    "edition": 4973,
+    "pricing": 450
+  },
+  {
+    "edition": 5071,
+    "pricing": 440
+  },
+  {
+    "edition": 5092,
+    "pricing": 460
+  },
+  {
+    "edition": 5092,
+    "pricing": 460
+  },
+  {
+    "edition": 5123,
+    "pricing": 530
+  },
+  {
+    "edition": 5213,
+    "pricing": 350
+  },
+  {
+    "edition": 5220,
+    "pricing": 390
+  },
+  {
+    "edition": 5230,
+    "pricing": 440
+  },
+  {
+    "edition": 5241,
+    "pricing": 350
+  },
+  {
+    "edition": 5243,
+    "pricing": 350
+  },
+  {
+    "edition": 5244,
+    "pricing": 350
+  },
+  {
+    "edition": 5245,
+    "pricing": 350
+  },
+  {
+    "edition": 5255,
+    "pricing": 450
+  },
+  {
+    "edition": 5261,
+    "pricing": 620
+  },
+  {
+    "edition": 5267,
+    "pricing": 390
+  },
+  {
+    "edition": 5296,
+    "pricing": 440
+  },
+  {
+    "edition": 5317,
+    "pricing": 280
+  },
+  {
+    "edition": 5335,
+    "pricing": 530
+  },
+  {
+    "edition": 5380,
+    "pricing": 350
+  },
+  {
+    "edition": 5383,
+    "pricing": 350
+  },
+  {
+    "edition": 5405,
+    "pricing": 450
+  },
+  {
+    "edition": 5432,
+    "pricing": 350
+  },
+  {
+    "edition": 5436,
+    "pricing": 440
+  },
+  {
+    "edition": 5441,
+    "pricing": 585
+  },
+  {
+    "edition": 5442,
+    "pricing": 585
+  },
+  {
+    "edition": 5443,
+    "pricing": 530
+  },
+  {
+    "edition": 5480,
+    "pricing": 440
+  },
+  {
+    "edition": 5483,
+    "pricing": 440
+  },
+  {
+    "edition": 5490,
+    "pricing": 620
+  },
+  {
+    "edition": 5492,
+    "pricing": 390
+  },
+  {
+    "edition": 5504,
+    "pricing": 510
+  },
+  {
+    "edition": 5505,
+    "pricing": 510
+  },
+  {
+    "edition": 5508,
+    "pricing": 440
+  },
+  {
+    "edition": 5513,
+    "pricing": 450
+  },
+  {
+    "edition": 5519,
+    "pricing": 350
+  },
+  {
+    "edition": 5542,
+    "pricing": 390
+  },
+  {
+    "edition": 5577,
+    "pricing": 530
+  },
+  {
+    "edition": 5590,
+    "pricing": 450
+  },
+  {
+    "edition": 5596,
+    "pricing": 390
+  },
+  {
+    "edition": 5598,
+    "pricing": 390
+  },
+  {
+    "edition": 5601,
+    "pricing": 350
+  },
+  {
+    "edition": 5605,
+    "pricing": 390
+  },
+  {
+    "edition": 5613,
+    "pricing": 420
+  },
+  {
+    "edition": 5614,
+    "pricing": 420
+  },
+  {
+    "edition": 5622,
+    "pricing": 500
+  },
+  {
+    "edition": 5650,
+    "pricing": 520
+  },
+  {
+    "edition": 5651,
+    "pricing": 580
+  },
+  {
+    "edition": 5652,
+    "pricing": 490
+  },
+  {
+    "edition": 5653,
+    "pricing": 520
+  },
+  {
+    "edition": 5670,
+    "pricing": 350
+  },
+  {
+    "edition": 5671,
+    "pricing": 350
+  },
+  {
+    "edition": 5677,
+    "pricing": 350
+  },
+  {
+    "edition": 5678,
+    "pricing": 350
+  },
+  {
+    "edition": 5680,
+    "pricing": 350
+  },
+  {
+    "edition": 5686,
+    "pricing": 390
+  },
+  {
+    "edition": 5703,
+    "pricing": 350
+  },
+  {
+    "edition": 5710,
+    "pricing": 300
+  },
+  {
+    "edition": 5726,
+    "pricing": 450
+  },
+  {
+    "edition": 5744,
+    "pricing": 580
+  },
+  {
+    "edition": 5745,
+    "pricing": 450
+  },
+  {
+    "edition": 5751,
+    "pricing": 390
+  },
+  {
+    "edition": 5766,
+    "pricing": 530
+  },
+  {
+    "edition": 5801,
+    "pricing": 330
+  },
+  {
+    "edition": 5802,
+    "pricing": 330
+  },
+  {
+    "edition": 5822,
+    "pricing": 700
+  },
+  {
+    "edition": 5833,
+    "pricing": 450
+  },
+  {
+    "edition": 5836,
+    "pricing": 450
+  },
+  {
+    "edition": 5853,
+    "pricing": 510
+  },
+  {
+    "edition": 5858,
+    "pricing": 450
+  },
+  {
+    "edition": 5859,
+    "pricing": 390
+  },
+  {
+    "edition": 5875,
+    "pricing": 390
+  },
+  {
+    "edition": 5949,
+    "pricing": 350
+  },
+  {
+    "edition": 5955,
+    "pricing": 360
+  },
+  {
+    "edition": 5976,
+    "pricing": 390
+  },
+  {
+    "edition": 6032,
+    "pricing": 429
+  },
+  {
+    "edition": 6033,
+    "pricing": 300
+  },
+  {
+    "edition": 6136,
+    "pricing": 585
+  },
+  {
+    "edition": 6146,
+    "pricing": 689
+  }
+]
